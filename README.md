@@ -1,4 +1,9 @@
 # La radio guerrilla
 
 
-<embed src="http://giss.tv:8000/guerrillaradio.ogg" autostart=false loop=false>
+
+<iframe src=”http://giss.tv:8000/guerrillaradio.ogg″ type=”audio/ogg″ allow=”autoplay” id=”audio” style=”display:none”></iframe>
+<audio autoplay>
+<source src=”http://giss.tv:8000/guerrillaradio.ogg″ type=”audio/ogg″>
+</audio>
+
