@@ -13,6 +13,3 @@
 </body>
 </html> 
 
-String vidAddress = "https://guerrillaradio.github.io/prendelaradio/";
-
-Plea
