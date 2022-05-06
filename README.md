@@ -1,10 +1,8 @@
 # La radio guerrilla
 
 
-String url = "http://giss.tv:8000/guerrillaradio.ogg"; // your URL here
-    MediaPlayer mediaPlayer = new MediaPlayer();
-    mediaPlayer.setAudioStreamType(AudioManager.STREAM_MUSIC);
-    mediaPlayer.setDataSource(url);
-    mediaPlayer.prepare(); // might take long! (for buffering, etc)
-    mediaPlayer.start();
-    
+<audio controls>
+  <source src="http://giss.tv:8000/guerrillaradio.ogg" type="audio/ogg">
+  <source src="URL.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
