@@ -17,4 +17,5 @@
 
 </body>
 navegadores guerrilleros
-https://guerrillaradio.github.io/prendeunaradio/
+src="http://giss.tv:8000/guerrillaradio.ogg">
+      
