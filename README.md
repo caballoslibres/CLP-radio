@@ -15,5 +15,6 @@
 </body>
 </html> 
 
-Opció navegadores reales
+</body>
+navegadores guerrilleros
 https://guerrillaradio.github.io/prendeunaradio/
