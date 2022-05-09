@@ -15,7 +15,5 @@
 </body>
 </html> 
 
-</body>
-navegadores guerrilleros
-src="http://giss.tv:8000/guerrillaradio.ogg">
-      
+
+   <a href="http://giss.tv:8000/guerrillaradio.ogg">navegadores guerrilleros</a>     
