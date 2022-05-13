@@ -9,11 +9,11 @@
    
 </head>
 <body>
-	<audio controls="controls" src="http://giss.tv:8000/guerrillaradio.ogg">
+	<audio controls="controls" src="https://giss.tv:8000/guerrillaradio.ogg">
       
     </audio>
 </body>
 </html> 
 
 
-   <a href="http://giss.tv:8000/guerrillaradio.ogg">navegadores guerrilleros</a>     
+   <a href="https://giss.tv:8000/guerrillaradio.ogg">navegadores guerrilleros</a>     
