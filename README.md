@@ -1,6 +1,6 @@
-# La radio guerrillas
+# La radio guerrilla
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="utf-8">
