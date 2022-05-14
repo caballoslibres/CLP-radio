@@ -1,6 +1,6 @@
 # La radio guerrilla
 
-<audio controls autoplay>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
