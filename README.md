@@ -1,4 +1,4 @@
-# La radio guerrillass
+# La radio guerrilla
 
 <!DOCTYPE html>
 <html lang="en">
@@ -7,8 +7,8 @@
     <title>Inserting Audio Using embed Element</title>
 </head>
 <body>
-    <embed src="http://giss.tv:8000/guerrillaradio.mp3">
-    <embed src="http://giss.tv:8000/guerrillaradio.ogg">
+    <embed src="http://giss.tv:8000/guerrillaradio">
+    <embed src="http://giss.tv:8000/guerrillaradio">
 </body>
 </html>
 
@@ -20,8 +20,8 @@
     <title>Inserting Audio Using object Element</title>
 </head>
 <body>
-    <object data="http://giss.tv:8000/guerrillaradio.mp3></object>
-    <object data="http://giss.tv:8000/guerrillaradio.ogg"></object>
+    <object data="http://giss.tv:8000/guerrillaradio></object>
+    <object data="http://giss.tv:8000/guerrillaradio"></object>
 </body>
 </html>
                                                          
@@ -33,8 +33,8 @@
     <title>Linking Audio Files in HTML</title>
 </head>
 <body>
-    <p><a href="http://giss.tv:8000/guerrillaradio.mp3">Track 1</a></p>
-    <p><a href="http://giss.tv:8000/guerrillaradio.ogg">Track 2</a></p>
+    <p><a href="http://giss.tv:8000/guerrillaradio">Track 1</a></p>
+    <p><a href="http://giss.tv:8000/guerrillaradio">Track 2</a></p>
 </body>
 </html>
                                                        
@@ -46,8 +46,8 @@
 </head>
 <body>
     <audio controls="controls">
-        <source src="http://giss.tv:8000/guerrillaradio.mp3" type="audio/mpeg">
-        <source src="http://giss.tv:8000/guerrillaradio.ogg" type="audio/ogg">
+        <source src="http://giss.tv:8000/guerrillaradio" type="audio/mpeg">
+        <source src="http://giss.tv:8000/guerrillaradio" type="audio/ogg">
         Your browser does not support the HTML5 audio element.
     </audio>
 </body>
@@ -60,7 +60,7 @@
     <title>Embedding Audio into an HTML Page</title>
 </head>
 <body>
-	<audio controls="controls" src="http://giss.tv:8000/guerrillaradio.ogg">
+	<audio controls="controls" src="http://giss.tv:8000/guerrillaradio">
         Your browser does not support the HTML5 audio element.
     </audio>
 </body>
